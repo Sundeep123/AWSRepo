@@ -1,3 +1,7 @@
 This is test script
 this is modified script
+<<<<<<< HEAD
 this is final hotfix
+=======
+data
+>>>>>>> dev
