@@ -1,2 +1,6 @@
 test file 2
+<<<<<<< HEAD
 third line
+=======
+second line
+>>>>>>> a132b1569d070b7777cb713acb72f00d3c8b4634
